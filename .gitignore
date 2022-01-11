@@ -521,3 +521,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.vs/python-csharp-example/v17/.suo
