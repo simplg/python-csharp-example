@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Api", "Api\Api.pyproj", "{3EBE5781-7F4C-4BDD-9F26-2FBECAAC5211}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Api", "Api\Api.pyproj", "{56ACE418-02FD-4148-A57E-ADB96D4B2AC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3EBE5781-7F4C-4BDD-9F26-2FBECAAC5211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3EBE5781-7F4C-4BDD-9F26-2FBECAAC5211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56ACE418-02FD-4148-A57E-ADB96D4B2AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56ACE418-02FD-4148-A57E-ADB96D4B2AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A6B8E590-9ECC-430A-BA1B-0F7AD7F4C98C}
+		SolutionGuid = {5B23D06A-B9E9-4B10-A3B2-080349486996}
 	EndGlobalSection
 EndGlobal
